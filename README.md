@@ -1,6 +1,4 @@
-# Deep Learning Approach to summarize news.
-
-Absolutely! Here's a summarized version of the solution strategy and innovations, focusing on the key points:
+### Deep Learning Approach to summarize news.
 
 **Solution Strategy:**
 
