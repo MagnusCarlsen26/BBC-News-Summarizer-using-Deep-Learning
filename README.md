@@ -38,4 +38,3 @@
 * The Positional Encoding class in the Transformer model helps the model understand the order of words in the input.
 * The use of pre-trained models like BART, Pegasus, and T5 can save time and resources compared to training models from scratch.
 
-Let me know if you'd like any part of this elaborated further! 
